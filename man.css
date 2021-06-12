@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color:purple;
+    text-align:center;
+    font-size:60px;
+}
+p {
+font-size:25px;
+}
+ul {
+    font-size:22px;
+}
+header a {
+    font-size:30px;
+    text-decoration: 0;
+    padding: 20px;
+    background-color:peru;
+    margin:20px;
+    border-radius:20px;
+}
